@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the analysis: Explain the purpose of this analysis.
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results: Using bulleted lists and images to support your answers, address the following questions.## 
 
 ## Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
